@@ -1,0 +1,16 @@
+[
+  {
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19",
+    "id": "124"
+  },
+  {
+    "title": "Book B",
+    "imageUrl": "https://www.collinsdictionary.com/images/full/book_181404689_1000.jpg",
+    "description": "Good book",
+    "price": "20",
+    "id": "61.392258844334215"
+  }
+]
